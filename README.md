@@ -1,1 +1,1 @@
-# Programacion-2-Auxiliatura-Practica-3
+Nombre: Yonathan Tony Caguaya Apaza CI: 9911344 RU: 1855765
