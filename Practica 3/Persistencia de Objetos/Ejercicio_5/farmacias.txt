@@ -1,0 +1,2 @@
+Farmacia Central|1|Av. Siempre Viva 742|Golpex,101,lastimaduras,5.0;Resfriol,102,resfrio,3.0
+Farmacia Norte|2|Calle Falsa 123|TosLin,201,tos,4.5
